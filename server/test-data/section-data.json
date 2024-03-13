@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "65f0a09d2891404ade9fa13f",
+    "courseId": "65f09cde50efedb9b6ccbf42",
+    "title": "Python Module 1",
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa140",
+    "courseId": "65f09cde50efedb9b6ccbf42",
+    "title": "Python Module 2",
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa141",
+    "courseId": "65f09cde50efedb9b6ccbf42",
+    "title": "Python Module 3",
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa142",
+    "courseId": "65f09cde50efedb9b6ccbf42",
+    "title": "Python Quiz Modul 1",
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa143",
+    "courseId": "65f09cde50efedb9b6ccbf42",
+    "title": "Python Module 4",
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa144",
+    "courseId": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs Module 1",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa145",
+    "courseId": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs Module 2",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa146",
+    "courseId": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs Module 3",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa147",
+    "courseId": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs Quiz Modul 1",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa148",
+    "courseId": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs Module 4",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa149",
+    "courseId": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Module 1",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa14a",
+    "courseId": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Module 2",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa14b",
+    "courseId": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Module 3",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa14c",
+    "courseId": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Quiz Modul 1",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  },
+  {
+    "_id": "65f0a09d2891404ade9fa14d",
+    "courseId": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Module 4",
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "lessonsOrder": []
+  }
+]

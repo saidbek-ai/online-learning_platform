@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "65f09cde50efedb9b6ccbf42",
+    "title": "Python for beginners!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+
+    "instructor": "65f08f1e7cc8e9270627ef4c",
+    "language": "en",
+    "requirements": ["Pc (windows, mac)", "Internet connection"],
+    "price": 200000
+  },
+  {
+    "_id": "65f09cde50efedb9b6ccbf43",
+    "title": "Nodejs course for all!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "language": "rus",
+
+    "requirements": [],
+    "price": 0
+  },
+  {
+    "_id": "65f09cde50efedb9b6ccbf44",
+    "title": "C++ Course for programming micro controllers",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+
+    "instructor": "65f08f1e7cc8e9270627ef4d",
+    "language": "rus",
+
+    "requirements": [],
+    "price": 0
+  }
+]
